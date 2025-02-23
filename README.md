@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/Ankitbhagat2062/grilli)
   ![GitHub stars](https://img.shields.io/github/stars/Ankitbhagat2062/grilli?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/Ankitbhagat2062/grilli?style=social)
-[![Facebook Follow](https://img.shields.io/Facebook/follow/Ankitbhagat2062_?style=social)](https://www.facebook.com/people/Ankit-Bhagat/pfbid02MGWNj66ZkJt87E1jawKgMqqh7kBfEm6M7pNa3jtnkRT2Nj7kACqLjF5R1vYtzNntl/)
+[![Facebook Follow](https://img.shields.io/facebook/follow/Ankitbhagat2062_?style=social)](https://www.facebook.com/people/Ankit-Bhagat/pfbid02MGWNj66ZkJt87E1jawKgMqqh7kBfEm6M7pNa3jtnkRT2Nj7kACqLjF5R1vYtzNntl/)
   
   <br />
   <br />
