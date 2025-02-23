@@ -4,8 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/Ankitbhagat2062/grilli?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/Ankitbhagat2062/grilli?style=social)
 [![Facebook Follow](https://www.facebook.com/profile.php?id=100087776815958)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/@Marvel-6978)](http://www.youtube.com/@Marvel-6978)
-
+  
   <br />
   <br />
 
@@ -36,13 +35,13 @@ To run **Grilli** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/Ankitbhagat2062/grilli.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/Ankitbhagat2062/grilli.git
 ```
 
 ### Contact
