@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Ankitbhagat2062/grilli)
+  ![GitHub stars](https://img.shields.io/github/stars/Ankitbhagat2062/grilli?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Ankitbhagat2062/grilli?style=social)
 [![Facebook Follow](https://www.facebook.com/profile.php?id=100087776815958)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/@Marvel-6978)](http://www.youtube.com/@Marvel-6978)
 
   <br />
   <br />
@@ -13,7 +13,7 @@
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Ankitbhagat2062.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
