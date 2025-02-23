@@ -1,13 +1,54 @@
-- 👋 Hi, I’m Ankit Bhagat My github UserName is @Ankitbhagat2062
-- 👀 I’m interested in Making apps and web development ...
-- 🌱 This website is made using HTML, CSS and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--     9820737305
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
+[![Facebook Follow](https://www.facebook.com/profile.php?id=100087776815958)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
 
-<!---
-Ankitbhagat2062/Ankitbhagat2062 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <br />
+  <br />
+
+  <h2 align="center">Grilli - Restaurant Website</h2>
+
+  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+To run **Grilli** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/grilli.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/grilli.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Facebook](https://www.facebook.com/profile.php?id=100087776815958).
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
